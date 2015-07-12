@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  BY_iphone
+
+  Created by wuxinyi on 15/7/11.
+  Copyright (c) 2015年 wuxinyi. All rights reserved.
+*/
+// 流程发起
+"pro_capion"="提示:申请人+期间+费用类型\n如,张某报10-11月通讯费,加班餐费";

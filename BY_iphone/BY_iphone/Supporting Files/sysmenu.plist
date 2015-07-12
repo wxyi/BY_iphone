@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>btn_apply.png</string>
+		<key>title</key>
+		<string>申请</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>btn_work.png</string>
+		<key>title</key>
+		<string>办公</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>icon_clocking_in.png</string>
+		<key>title</key>
+		<string>考勤</string>
+	</dict>
+</array>
+</plist>
