@@ -43,6 +43,7 @@
                         <textInputTraits key="textInputTraits"/>
                     </textField>
                 </subviews>
+                <color key="backgroundColor" red="0.92549019610000005" green="0.95294117649999999" blue="0.96862745100000003" alpha="1" colorSpace="calibratedRGB"/>
                 <constraints>
                     <constraint firstItem="N1Q-xb-xSY" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="7aj-91-2vp"/>
                     <constraint firstItem="Scf-9l-0P1" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="5" id="CPL-jR-A7j"/>

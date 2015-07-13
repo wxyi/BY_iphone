@@ -7,7 +7,7 @@
 //
 
 #import "SelectTypeViewController.h"
-
+#import "ReimburseViewController.h"
 @interface SelectTypeViewController ()
 
 @end
@@ -82,16 +82,9 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
-//    if (indexPath.row == 0) {
-//        AboutViewController* AboutView = [[AboutViewController alloc] initWithNibName:@"AboutViewController" bundle:nil];
-//        [self.navigationController pushViewController:AboutView animated:YES];
-//    }
-//    else
-//    {
-//        
-//        VersionUpdatesViewController* VersionUpdatesView = [[VersionUpdatesViewController alloc] initWithNibName:@"VersionUpdatesViewController" bundle:nil];
-//        [self.navigationController pushViewController:VersionUpdatesView animated:YES];
-//    }
+    ReimburseViewController* ReimburseView = [[ReimburseViewController alloc] initWithNibName:@"ReimburseViewController" bundle:nil];
+    [self.navigationController pushViewController:ReimburseView animated:YES];
+
 }
 /*
 #pragma mark - Navigation

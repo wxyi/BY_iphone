@@ -7,6 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E7A42AC1B52B5C700A28331 /* ReimbuseSubCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E7A42AA1B52B5C700A28331 /* ReimbuseSubCell.m */; };
+		2E7A42AD1B52B5C700A28331 /* ReimbuseSubCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2E7A42AB1B52B5C700A28331 /* ReimbuseSubCell.xib */; };
+		2E7A42B11B52B7A700A28331 /* strokeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E7A42AF1B52B7A700A28331 /* strokeCell.m */; };
+		2E7A42B21B52B7A700A28331 /* strokeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2E7A42B01B52B7A700A28331 /* strokeCell.xib */; };
+		2E7A42B61B52C6BC00A28331 /* ReimbursDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E7A42B41B52C6BC00A28331 /* ReimbursDetailViewController.m */; };
+		2E7A42B71B52C6BC00A28331 /* ReimbursDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2E7A42B51B52C6BC00A28331 /* ReimbursDetailViewController.xib */; };
+		2E7A42BB1B52CBBE00A28331 /* ReimbuseSKSCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E7A42B91B52CBBE00A28331 /* ReimbuseSKSCell.m */; };
+		2E7A42BC1B52CBBE00A28331 /* ReimbuseSKSCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2E7A42BA1B52CBBE00A28331 /* ReimbuseSKSCell.xib */; };
+		2E7A42C01B52CDBC00A28331 /* ReimbuseSKSSubCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E7A42BE1B52CDBC00A28331 /* ReimbuseSKSSubCell.m */; };
+		2E7A42C11B52CDBC00A28331 /* ReimbuseSKSSubCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2E7A42BF1B52CDBC00A28331 /* ReimbuseSKSSubCell.xib */; };
+		2E7A42C51B52E2CD00A28331 /* ApprovalProcessViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E7A42C31B52E2CD00A28331 /* ApprovalProcessViewController.m */; };
+		2E7A42C61B52E2CD00A28331 /* ApprovalProcessViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2E7A42C41B52E2CD00A28331 /* ApprovalProcessViewController.xib */; };
+		2E7A42CA1B52E33500A28331 /* ApprovalProcessCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E7A42C81B52E33500A28331 /* ApprovalProcessCell.m */; };
+		2E7A42CB1B52E33500A28331 /* ApprovalProcessCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2E7A42C91B52E33500A28331 /* ApprovalProcessCell.xib */; };
+		2E7A42EF1B52E7DF00A28331 /* btn_tag_delete.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E7A42EC1B52E7DF00A28331 /* btn_tag_delete.png */; };
+		2E7A42F01B52E7DF00A28331 /* HKKTagWriteView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E7A42EE1B52E7DF00A28331 /* HKKTagWriteView.m */; };
+		2E7A43031B52EDC100A28331 /* AOTag.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E7A42F31B52EDC000A28331 /* AOTag.m */; };
+		2E7A43041B52EDC100A28331 /* EGOCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E7A42F71B52EDC000A28331 /* EGOCache.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		2E7A43051B52EDC100A28331 /* EGOImageButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E7A42FA1B52EDC000A28331 /* EGOImageButton.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		2E7A43061B52EDC100A28331 /* EGOImageLoadConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E7A42FD1B52EDC000A28331 /* EGOImageLoadConnection.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		2E7A43071B52EDC100A28331 /* EGOImageLoader.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E7A42FF1B52EDC000A28331 /* EGOImageLoader.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		2E7A43081B52EDC100A28331 /* EGOImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E7A43021B52EDC100A28331 /* EGOImageView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		2EB3A5111B5113AF0013F060 /* QHBasicViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EB3A5091B5113AF0013F060 /* QHBasicViewController.m */; };
 		2EB3A5121B5113AF0013F060 /* UIView+KGViewExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EB3A50B1B5113AF0013F060 /* UIView+KGViewExtend.m */; };
 		2EB3A5161B5114F40013F060 /* MyBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EB3A5141B5114F40013F060 /* MyBaseViewController.m */; };
@@ -210,6 +232,42 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2E7A42A91B52B5C700A28331 /* ReimbuseSubCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ReimbuseSubCell.h; path = Reimburse/ReimbuseSubCell.h; sourceTree = "<group>"; };
+		2E7A42AA1B52B5C700A28331 /* ReimbuseSubCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ReimbuseSubCell.m; path = Reimburse/ReimbuseSubCell.m; sourceTree = "<group>"; };
+		2E7A42AB1B52B5C700A28331 /* ReimbuseSubCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = ReimbuseSubCell.xib; path = Reimburse/ReimbuseSubCell.xib; sourceTree = "<group>"; };
+		2E7A42AE1B52B7A700A28331 /* strokeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = strokeCell.h; path = Reimburse/strokeCell.h; sourceTree = "<group>"; };
+		2E7A42AF1B52B7A700A28331 /* strokeCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = strokeCell.m; path = Reimburse/strokeCell.m; sourceTree = "<group>"; };
+		2E7A42B01B52B7A700A28331 /* strokeCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = strokeCell.xib; path = Reimburse/strokeCell.xib; sourceTree = "<group>"; };
+		2E7A42B31B52C6BC00A28331 /* ReimbursDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ReimbursDetailViewController.h; path = Reimburse/ReimbursDetailViewController.h; sourceTree = "<group>"; };
+		2E7A42B41B52C6BC00A28331 /* ReimbursDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ReimbursDetailViewController.m; path = Reimburse/ReimbursDetailViewController.m; sourceTree = "<group>"; };
+		2E7A42B51B52C6BC00A28331 /* ReimbursDetailViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = ReimbursDetailViewController.xib; path = Reimburse/ReimbursDetailViewController.xib; sourceTree = "<group>"; };
+		2E7A42B81B52CBBE00A28331 /* ReimbuseSKSCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ReimbuseSKSCell.h; path = Reimburse/ReimbuseSKSCell.h; sourceTree = "<group>"; };
+		2E7A42B91B52CBBE00A28331 /* ReimbuseSKSCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ReimbuseSKSCell.m; path = Reimburse/ReimbuseSKSCell.m; sourceTree = "<group>"; };
+		2E7A42BA1B52CBBE00A28331 /* ReimbuseSKSCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = ReimbuseSKSCell.xib; path = Reimburse/ReimbuseSKSCell.xib; sourceTree = "<group>"; };
+		2E7A42BD1B52CDBC00A28331 /* ReimbuseSKSSubCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ReimbuseSKSSubCell.h; path = Reimburse/ReimbuseSKSSubCell.h; sourceTree = "<group>"; };
+		2E7A42BE1B52CDBC00A28331 /* ReimbuseSKSSubCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ReimbuseSKSSubCell.m; path = Reimburse/ReimbuseSKSSubCell.m; sourceTree = "<group>"; };
+		2E7A42BF1B52CDBC00A28331 /* ReimbuseSKSSubCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = ReimbuseSKSSubCell.xib; path = Reimburse/ReimbuseSKSSubCell.xib; sourceTree = "<group>"; };
+		2E7A42C21B52E2CD00A28331 /* ApprovalProcessViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ApprovalProcessViewController.h; path = Reimburse/ApprovalProcessViewController.h; sourceTree = "<group>"; };
+		2E7A42C31B52E2CD00A28331 /* ApprovalProcessViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ApprovalProcessViewController.m; path = Reimburse/ApprovalProcessViewController.m; sourceTree = "<group>"; };
+		2E7A42C41B52E2CD00A28331 /* ApprovalProcessViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = ApprovalProcessViewController.xib; path = Reimburse/ApprovalProcessViewController.xib; sourceTree = "<group>"; };
+		2E7A42C71B52E33500A28331 /* ApprovalProcessCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ApprovalProcessCell.h; path = Reimburse/ApprovalProcessCell.h; sourceTree = "<group>"; };
+		2E7A42C81B52E33500A28331 /* ApprovalProcessCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ApprovalProcessCell.m; path = Reimburse/ApprovalProcessCell.m; sourceTree = "<group>"; };
+		2E7A42C91B52E33500A28331 /* ApprovalProcessCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = ApprovalProcessCell.xib; path = Reimburse/ApprovalProcessCell.xib; sourceTree = "<group>"; };
+		2E7A42EC1B52E7DF00A28331 /* btn_tag_delete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_tag_delete.png; sourceTree = "<group>"; };
+		2E7A42ED1B52E7DF00A28331 /* HKKTagWriteView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HKKTagWriteView.h; sourceTree = "<group>"; };
+		2E7A42EE1B52E7DF00A28331 /* HKKTagWriteView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HKKTagWriteView.m; sourceTree = "<group>"; };
+		2E7A42F21B52EDC000A28331 /* AOTag.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AOTag.h; sourceTree = "<group>"; };
+		2E7A42F31B52EDC000A28331 /* AOTag.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AOTag.m; sourceTree = "<group>"; };
+		2E7A42F61B52EDC000A28331 /* EGOCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EGOCache.h; sourceTree = "<group>"; };
+		2E7A42F71B52EDC000A28331 /* EGOCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EGOCache.m; sourceTree = "<group>"; };
+		2E7A42F91B52EDC000A28331 /* EGOImageButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EGOImageButton.h; sourceTree = "<group>"; };
+		2E7A42FA1B52EDC000A28331 /* EGOImageButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EGOImageButton.m; sourceTree = "<group>"; };
+		2E7A42FC1B52EDC000A28331 /* EGOImageLoadConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EGOImageLoadConnection.h; sourceTree = "<group>"; };
+		2E7A42FD1B52EDC000A28331 /* EGOImageLoadConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EGOImageLoadConnection.m; sourceTree = "<group>"; };
+		2E7A42FE1B52EDC000A28331 /* EGOImageLoader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EGOImageLoader.h; sourceTree = "<group>"; };
+		2E7A42FF1B52EDC000A28331 /* EGOImageLoader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EGOImageLoader.m; sourceTree = "<group>"; };
+		2E7A43011B52EDC100A28331 /* EGOImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EGOImageView.h; sourceTree = "<group>"; };
+		2E7A43021B52EDC100A28331 /* EGOImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EGOImageView.m; sourceTree = "<group>"; };
 		2EB3A5081B5113AF0013F060 /* QHBasicViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QHBasicViewController.h; sourceTree = "<group>"; };
 		2EB3A5091B5113AF0013F060 /* QHBasicViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QHBasicViewController.m; sourceTree = "<group>"; };
 		2EB3A50A1B5113AF0013F060 /* UIView+KGViewExtend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+KGViewExtend.h"; sourceTree = "<group>"; };
@@ -522,6 +580,75 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2E7A42EB1B52E7DF00A28331 /* HKKTagWriteView */ = {
+			isa = PBXGroup;
+			children = (
+				2E7A42EC1B52E7DF00A28331 /* btn_tag_delete.png */,
+				2E7A42ED1B52E7DF00A28331 /* HKKTagWriteView.h */,
+				2E7A42EE1B52E7DF00A28331 /* HKKTagWriteView.m */,
+			);
+			path = HKKTagWriteView;
+			sourceTree = "<group>";
+		};
+		2E7A42F11B52EDC000A28331 /* AOTag */ = {
+			isa = PBXGroup;
+			children = (
+				2E7A42F21B52EDC000A28331 /* AOTag.h */,
+				2E7A42F31B52EDC000A28331 /* AOTag.m */,
+				2E7A42F41B52EDC000A28331 /* EGOImageLoading */,
+			);
+			path = AOTag;
+			sourceTree = "<group>";
+		};
+		2E7A42F41B52EDC000A28331 /* EGOImageLoading */ = {
+			isa = PBXGroup;
+			children = (
+				2E7A42F51B52EDC000A28331 /* EGOCache */,
+				2E7A42F81B52EDC000A28331 /* EGOImageButton */,
+				2E7A42FB1B52EDC000A28331 /* EGOImageLoader */,
+				2E7A43001B52EDC100A28331 /* EGOImageView */,
+			);
+			path = EGOImageLoading;
+			sourceTree = "<group>";
+		};
+		2E7A42F51B52EDC000A28331 /* EGOCache */ = {
+			isa = PBXGroup;
+			children = (
+				2E7A42F61B52EDC000A28331 /* EGOCache.h */,
+				2E7A42F71B52EDC000A28331 /* EGOCache.m */,
+			);
+			path = EGOCache;
+			sourceTree = "<group>";
+		};
+		2E7A42F81B52EDC000A28331 /* EGOImageButton */ = {
+			isa = PBXGroup;
+			children = (
+				2E7A42F91B52EDC000A28331 /* EGOImageButton.h */,
+				2E7A42FA1B52EDC000A28331 /* EGOImageButton.m */,
+			);
+			path = EGOImageButton;
+			sourceTree = "<group>";
+		};
+		2E7A42FB1B52EDC000A28331 /* EGOImageLoader */ = {
+			isa = PBXGroup;
+			children = (
+				2E7A42FC1B52EDC000A28331 /* EGOImageLoadConnection.h */,
+				2E7A42FD1B52EDC000A28331 /* EGOImageLoadConnection.m */,
+				2E7A42FE1B52EDC000A28331 /* EGOImageLoader.h */,
+				2E7A42FF1B52EDC000A28331 /* EGOImageLoader.m */,
+			);
+			path = EGOImageLoader;
+			sourceTree = "<group>";
+		};
+		2E7A43001B52EDC100A28331 /* EGOImageView */ = {
+			isa = PBXGroup;
+			children = (
+				2E7A43011B52EDC100A28331 /* EGOImageView.h */,
+				2E7A43021B52EDC100A28331 /* EGOImageView.m */,
+			);
+			path = EGOImageView;
+			sourceTree = "<group>";
+		};
 		2EB3A4FF1B5113AF0013F060 /* ViewExtend */ = {
 			isa = PBXGroup;
 			children = (
@@ -644,6 +771,12 @@
 				2EB927331B52A7CA00AA0E1E /* ReimburseViewController.h */,
 				2EB927341B52A7CA00AA0E1E /* ReimburseViewController.m */,
 				2EB927351B52A7CA00AA0E1E /* ReimburseViewController.xib */,
+				2E7A42B31B52C6BC00A28331 /* ReimbursDetailViewController.h */,
+				2E7A42B41B52C6BC00A28331 /* ReimbursDetailViewController.m */,
+				2E7A42B51B52C6BC00A28331 /* ReimbursDetailViewController.xib */,
+				2E7A42C21B52E2CD00A28331 /* ApprovalProcessViewController.h */,
+				2E7A42C31B52E2CD00A28331 /* ApprovalProcessViewController.m */,
+				2E7A42C41B52E2CD00A28331 /* ApprovalProcessViewController.xib */,
 			);
 			name = Reimburse;
 			sourceTree = "<group>";
@@ -654,6 +787,21 @@
 				2EB927391B52AA9700AA0E1E /* ReimbuseTopCell.h */,
 				2EB9273A1B52AA9700AA0E1E /* ReimbuseTopCell.m */,
 				2EB9273B1B52AA9700AA0E1E /* ReimbuseTopCell.xib */,
+				2E7A42A91B52B5C700A28331 /* ReimbuseSubCell.h */,
+				2E7A42AA1B52B5C700A28331 /* ReimbuseSubCell.m */,
+				2E7A42AB1B52B5C700A28331 /* ReimbuseSubCell.xib */,
+				2E7A42AE1B52B7A700A28331 /* strokeCell.h */,
+				2E7A42AF1B52B7A700A28331 /* strokeCell.m */,
+				2E7A42B01B52B7A700A28331 /* strokeCell.xib */,
+				2E7A42B81B52CBBE00A28331 /* ReimbuseSKSCell.h */,
+				2E7A42B91B52CBBE00A28331 /* ReimbuseSKSCell.m */,
+				2E7A42BA1B52CBBE00A28331 /* ReimbuseSKSCell.xib */,
+				2E7A42BD1B52CDBC00A28331 /* ReimbuseSKSSubCell.h */,
+				2E7A42BE1B52CDBC00A28331 /* ReimbuseSKSSubCell.m */,
+				2E7A42BF1B52CDBC00A28331 /* ReimbuseSKSSubCell.xib */,
+				2E7A42C71B52E33500A28331 /* ApprovalProcessCell.h */,
+				2E7A42C81B52E33500A28331 /* ApprovalProcessCell.m */,
+				2E7A42C91B52E33500A28331 /* ApprovalProcessCell.xib */,
 			);
 			name = Reimburse;
 			sourceTree = "<group>";
@@ -980,6 +1128,8 @@
 		2ECE835D1B4802F100D5886A /* Vendor */ = {
 			isa = PBXGroup;
 			children = (
+				2E7A42F11B52EDC000A28331 /* AOTag */,
+				2E7A42EB1B52E7DF00A28331 /* HKKTagWriteView */,
 				2EB926F01B5184B500AA0E1E /* QCheckbox */,
 				2EB926DD1B5162E600AA0E1E /* ZHPickView */,
 				2ECE835E1B4802F100D5886A /* Data */,
@@ -1425,6 +1575,7 @@
 				2EB9272C1B52979C00AA0E1E /* ReimburseDetailViewController.xib in Resources */,
 				2EB3A5721B511F1A0013F060 /* icon_bag.png in Resources */,
 				2EB3A55A1B511F1A0013F060 /* bg_home_page.png in Resources */,
+				2E7A42BC1B52CBBE00A28331 /* ReimbuseSKSCell.xib in Resources */,
 				2EB926EF1B517D3F00AA0E1E /* FullBankCodeViewController.xib in Resources */,
 				2EB3A5651B511F1A0013F060 /* btn_down_blue.png in Resources */,
 				2EB927271B51AC5300AA0E1E /* VersionUpdatesCell.xib in Resources */,
@@ -1438,16 +1589,19 @@
 				2EB3A5611B511F1A0013F060 /* btn_back.png in Resources */,
 				2EBAE8A31B481637002E1C39 /* menu_btn@2x.png in Resources */,
 				2EB926E51B51633500AA0E1E /* FullInfoCell.xib in Resources */,
+				2E7A42B71B52C6BC00A28331 /* ReimbursDetailViewController.xib in Resources */,
 				2ECE84031B4802F100D5886A /* Main.storyboard in Resources */,
 				2EB3A5711B511F1A0013F060 /* icon_bag_hl.png in Resources */,
 				2EB3A5761B511F1A0013F060 /* icon_Coil_white.png in Resources */,
 				2ECE840D1B4802F100D5886A /* area.plist in Resources */,
 				2EB926F81B5184B500AA0E1E /* checkbox1_checked@2x.png in Resources */,
 				2EB927371B52A7CA00AA0E1E /* ReimburseViewController.xib in Resources */,
+				2E7A42CB1B52E33500A28331 /* ApprovalProcessCell.xib in Resources */,
 				2EB3A5A71B514C240013F060 /* ProcessStartCell.xib in Resources */,
 				2ECE84041B4802F100D5886A /* Images.xcassets in Resources */,
 				2EB3A51D1B5117210013F060 /* LoginViewController.xib in Resources */,
 				2EB926DC1B51603D00AA0E1E /* FillInfoViewController.xib in Resources */,
+				2E7A42C61B52E2CD00A28331 /* ApprovalProcessViewController.xib in Resources */,
 				2EB3A5671B511F1A0013F060 /* btn_down.png in Resources */,
 				2ECE84101B4802F100D5886A /* screentshoot2.png in Resources */,
 				2ECE84051B4802F100D5886A /* Info.plist in Resources */,
@@ -1470,6 +1624,7 @@
 				2EB3A58A1B5139980013F060 /* sysmenu.plist in Resources */,
 				2EB3A5771B511F1A0013F060 /* icon_draft.png in Resources */,
 				2EB3A57A1B511F1A0013F060 /* icon_install.png in Resources */,
+				2E7A42C11B52CDBC00A28331 /* ReimbuseSKSSubCell.xib in Resources */,
 				2EBAE8921B4812ED002E1C39 /* HomePageViewController.xib in Resources */,
 				2EB3A57E1B511F1A0013F060 /* icon_Password_login.png in Resources */,
 				2EB926F71B5184B500AA0E1E /* checkbox1_checked.png in Resources */,
@@ -1490,10 +1645,13 @@
 				2EB9273D1B52AA9700AA0E1E /* ReimbuseTopCell.xib in Resources */,
 				2EB3A59D1B514A450013F060 /* bg.png in Resources */,
 				2EB3A59B1B5142F90013F060 /* AppleListCell.xib in Resources */,
+				2E7A42B21B52B7A700A28331 /* strokeCell.xib in Resources */,
+				2E7A42AD1B52B5C700A28331 /* ReimbuseSubCell.xib in Resources */,
 				2EB3A5691B511F1A0013F060 /* btn_right.png in Resources */,
 				2ECE841B1B4802F100D5886A /* area.plist in Resources */,
 				2EB3A56D1B511F1A0013F060 /* btn_work.png in Resources */,
 				2EB3A5831B511F1A0013F060 /* icon_refund.png in Resources */,
+				2E7A42EF1B52E7DF00A28331 /* btn_tag_delete.png in Resources */,
 				2EB9271D1B51A90500AA0E1E /* AboutViewController.xib in Resources */,
 				2EB3A5701B511F1A0013F060 /* icon_Approval.png in Resources */,
 				2EBAE8AA1B481BE9002E1C39 /* HomeMenuCell.xib in Resources */,
@@ -1568,9 +1726,11 @@
 				2ECE84061B4802F100D5886A /* main.m in Sources */,
 				2ECE84261B4802F100D5886A /* MJRefreshBackGifFooter.m in Sources */,
 				2ECE84221B4802F100D5886A /* MJRefreshHeader.m in Sources */,
+				2E7A43081B52EDC100A28331 /* EGOImageView.m in Sources */,
 				2ECE84211B4802F100D5886A /* MJRefreshFooter.m in Sources */,
 				2EB926E41B51633500AA0E1E /* FullInfoCell.m in Sources */,
 				2ECE83EF1B4802F100D5886A /* Utils.m in Sources */,
+				2E7A42C01B52CDBC00A28331 /* ReimbuseSKSSubCell.m in Sources */,
 				2ECE84081B4802F100D5886A /* APIAddress.m in Sources */,
 				2ECE84311B4802F100D5886A /* MMHud.m in Sources */,
 				2ECE84441B4802F100D5886A /* UUDatePicker_DateModel.m in Sources */,
@@ -1579,8 +1739,10 @@
 				2EB9272B1B52979C00AA0E1E /* ReimburseDetailViewController.m in Sources */,
 				2ECE84231B4802F100D5886A /* MJRefreshAutoGifFooter.m in Sources */,
 				2ECE842B1B4802F100D5886A /* MJRefreshStateHeader.m in Sources */,
+				2E7A42F01B52E7DF00A28331 /* HKKTagWriteView.m in Sources */,
 				2EB926DB1B51603D00AA0E1E /* FillInfoViewController.m in Sources */,
 				2ECE841E1B4802F100D5886A /* MJRefreshAutoFooter.m in Sources */,
+				2E7A42B61B52C6BC00A28331 /* ReimbursDetailViewController.m in Sources */,
 				2EBAE8A91B481BE9002E1C39 /* HomeMenuCell.m in Sources */,
 				2ECE843D1B4802F100D5886A /* LKPageView.m in Sources */,
 				2EB926EE1B517D3F00AA0E1E /* FullBankCodeViewController.m in Sources */,
@@ -1596,22 +1758,29 @@
 				2EB927261B51AC5300AA0E1E /* VersionUpdatesCell.m in Sources */,
 				2EB9271C1B51A90500AA0E1E /* AboutViewController.m in Sources */,
 				2ECE83EB1B4802F100D5886A /* NSDate+Helper.m in Sources */,
+				2E7A42C51B52E2CD00A28331 /* ApprovalProcessViewController.m in Sources */,
 				2ECE84291B4802F100D5886A /* MJRefreshGifHeader.m in Sources */,
 				2EB3A51C1B5117210013F060 /* LoginViewController.m in Sources */,
 				2ECE84191B4802F100D5886A /* KGModal.m in Sources */,
 				2ECE83EE1B4802F100D5886A /* UIImage+ResizeMagick.m in Sources */,
 				2ECE842E1B4802F100D5886A /* UIScrollView+MJExtension.m in Sources */,
 				2ECE840C1B4802F100D5886A /* SUHelper.m in Sources */,
+				2E7A42BB1B52CBBE00A28331 /* ReimbuseSKSCell.m in Sources */,
+				2E7A42B11B52B7A700A28331 /* strokeCell.m in Sources */,
 				2ECE84301B4802F100D5886A /* UIView+MJExtension.m in Sources */,
 				2ECE840B1B4802F100D5886A /* SQLStatement.m in Sources */,
+				2E7A43051B52EDC100A28331 /* EGOImageButton.m in Sources */,
+				2E7A43041B52EDC100A28331 /* EGOCache.m in Sources */,
 				2EB3A5111B5113AF0013F060 /* QHBasicViewController.m in Sources */,
 				2EB9273C1B52AA9700AA0E1E /* ReimbuseTopCell.m in Sources */,
 				2EBAE89E1B481404002E1C39 /* SidebarMenuTableViewController.m in Sources */,
+				2E7A42AC1B52B5C700A28331 /* ReimbuseSubCell.m in Sources */,
 				2ECE84391B4802F100D5886A /* MMVectorImage.m in Sources */,
 				2ECE84171B4802F100D5886A /* JKCountDownButton.m in Sources */,
 				2EB927361B52A7CA00AA0E1E /* ReimburseViewController.m in Sources */,
 				2ECE83F71B4802F100D5886A /* ViewController.m in Sources */,
 				2ECE841D1B4802F100D5886A /* LMContainsLMComboxScrollView.m in Sources */,
+				2E7A43031B52EDC100A28331 /* AOTag.m in Sources */,
 				2EB3A5121B5113AF0013F060 /* UIView+KGViewExtend.m in Sources */,
 				2ECE84361B4802F100D5886A /* MMProgressHUDViewController.m in Sources */,
 				2ECE84401B4802F100D5886A /* UIImage+SplitImageIntoTwoParts.m in Sources */,
@@ -1627,6 +1796,7 @@
 				2ECE83FF1B4802F100D5886A /* MImageFile.m in Sources */,
 				2ECE84201B4802F100D5886A /* MJRefreshComponent.m in Sources */,
 				2ECE84381B4802F100D5886A /* MMRadialProgressView.m in Sources */,
+				2E7A43071B52EDC100A28331 /* EGOImageLoader.m in Sources */,
 				2ECE840A1B4802F100D5886A /* HttpClient.m in Sources */,
 				2ECE843F1B4802F100D5886A /* LKWelcomeView.m in Sources */,
 				2EB926FF1B5188E600AA0E1E /* FullOtherInfoViewController.m in Sources */,
@@ -1645,10 +1815,12 @@
 				2ECE84341B4802F100D5886A /* MMProgressHUD.m in Sources */,
 				2ECE842A1B4802F100D5886A /* MJRefreshNormalHeader.m in Sources */,
 				2ECE842F1B4802F100D5886A /* UIScrollView+MJRefresh.m in Sources */,
+				2E7A43061B52EDC100A28331 /* EGOImageLoadConnection.m in Sources */,
 				2EB926E91B5176BE00AA0E1E /* FullSubInfoCell.m in Sources */,
 				2ECE84411B4802F100D5886A /* SGInfoAlert.m in Sources */,
 				2EB3A5161B5114F40013F060 /* MyBaseViewController.m in Sources */,
 				2ECE84161B4802F100D5886A /* DropDownListView.m in Sources */,
+				2E7A42CA1B52E33500A28331 /* ApprovalProcessCell.m in Sources */,
 				2ECE84371B4802F100D5886A /* MMProgressHUDWindow.m in Sources */,
 				2EB3A59A1B5142F90013F060 /* AppleListCell.m in Sources */,
 				2EB9270A1B51976B00AA0E1E /* PersonalinfoCell.m in Sources */,

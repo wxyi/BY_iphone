@@ -24,7 +24,7 @@
                         <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                         <nil key="highlightedColor"/>
                     </label>
-                    <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="9zF-HI-1Uu">
+                    <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="9zF-HI-1Uu">
                         <rect key="frame" x="100" y="7" width="120" height="30"/>
                         <constraints>
                             <constraint firstAttribute="height" constant="30" id="Orl-oN-aR9"/>
@@ -34,10 +34,12 @@
                         <textInputTraits key="textInputTraits"/>
                     </textField>
                 </subviews>
+                <color key="backgroundColor" red="0.92549019610000005" green="0.95294117649999999" blue="0.96862745100000003" alpha="1" colorSpace="calibratedRGB"/>
                 <constraints>
                     <constraint firstAttribute="trailing" secondItem="9zF-HI-1Uu" secondAttribute="trailing" constant="100" id="8nP-kz-2Sr"/>
                     <constraint firstAttribute="bottom" secondItem="SiR-nB-4GI" secondAttribute="bottom" constant="-1" id="A3q-fV-ijB"/>
                     <constraint firstItem="SiR-nB-4GI" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="HBH-s6-4ih"/>
+                    <constraint firstItem="9zF-HI-1Uu" firstAttribute="centerY" secondItem="SiR-nB-4GI" secondAttribute="centerY" id="cU7-mZ-F8a"/>
                     <constraint firstItem="9zF-HI-1Uu" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="100" id="oBN-Mw-Uyx"/>
                     <constraint firstItem="SiR-nB-4GI" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="15" id="rKP-ra-59A"/>
                 </constraints>
